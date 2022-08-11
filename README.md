@@ -2,7 +2,7 @@
 
 :us:  From the Back-End Module (Web Development course at Trybe). 
 In the Block 22 we started learning Node.js, including Express.js and tests with Mocha, Chai and Sinon. 
-Here are some of the exercices that I developed during the 4 days of classes.
+Here are some of the exercices that I developed during the 4 days of classes. It includes:
 
 - **Node.js** syntax; 
 - **fs** - read and write files (sync/async);
